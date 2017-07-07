@@ -63,3 +63,7 @@ self.tableView.pullToRefreshView()?.refreshDidStopAnimationHandler = { [weak sel
 }
 
 ```
+
+Here's an example custom animation that I use in the [Galway Bus Abú app](http://galwaybusapp.com):
+
+![alt text](ptr.gif "Galway Bus Abú custom animation")
