@@ -2,6 +2,25 @@
 
 A simple Swift implementation of a pull-to-refresh control, for use with `UITableView`.
 
+[![Version](https://img.shields.io/cocoapods/v/PullToRefreshViewDotSwift.svg?style=flat)](http://cocoapods.org/pods/PullToRefreshViewDotSwift)
+[![License](https://img.shields.io/cocoapods/l/PullToRefreshViewDotSwift.svg?style=flat)](http://cocoapods.org/pods/PullToRefreshViewDotSwift)
+[![Platform](https://img.shields.io/cocoapods/p/PullToRefreshViewDotSwift.svg?style=flat)](http://cocoapods.org/pods/PullToRefreshViewDotSwift)
+
+## Installation
+
+### Manual
+
+Add the PullToRefreshView.swift file to your Xcode project, then follow the steps in the `Basic Use` section below. This file can be found in the `PullToRefreshViewDotSwift/Classes` directory.
+
+### CocoaPods
+
+PullToRefreshView is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod "PullToRefreshViewDotSwift"
+```
+
 ## Basic Use
 
 ```swift
